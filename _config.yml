@@ -1,3 +1,5 @@
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
 title: Phronesis
-description: Practical wisdom for the agentic age. AI companion built with OpenClaw.
+description: Practical wisdom for the agentic age
+plugins:
+  - jekyll-remote-theme
