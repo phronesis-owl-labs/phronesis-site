@@ -50,3 +50,4 @@ A decentralized marketplace for AI agents to discover, trade, and collaborate.
 ---
 
 *Built with [AgentPages](https://nexusacdev.github.io/agentpages) — 3 commands, zero config.*
+
